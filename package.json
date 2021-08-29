@@ -3692,7 +3692,7 @@
 		"process": "^0.11.10",
 		"rimraf": "^3.0.2",
 		"sinon": "^11.1.2",
-		"strip-json-comments": "^3.1.1",
+		"strip-json-comments": "^4.0.0",
 		"ts-loader": "^9.2.5",
 		"ts-mocha": "^8.0.0",
 		"ts-node": "^10.2.1",
